@@ -16,7 +16,7 @@
     <Filter Include="NewFilter1">
       <UniqueIdentifier>{4c6974ef-03fb-4a1d-b1e8-2287ea236f6f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Hình Ảnh Minh Chứng">
+    <Filter Include="Hình Ảnh Minh Chứng">
       <UniqueIdentifier>{6521722d-77b9-4699-8ff3-885766a53ace}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -36,7 +36,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\bt1.PNG">
-      <Filter>Source Files\Hình Ảnh Minh Chứng</Filter>
+      <Filter>Hình Ảnh Minh Chứng</Filter>
     </Image>
   </ItemGroup>
 </Project>
